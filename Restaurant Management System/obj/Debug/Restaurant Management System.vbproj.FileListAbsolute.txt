@@ -1,0 +1,15 @@
+C:\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.xml
+C:\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.vbprojAssemblyReference.cache
+C:\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Resources.resources
+C:\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.vbproj.GenerateResource.cache
+C:\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.vbproj.CoreCompileInputs.cache
+C:\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.xml
+C:\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.LoginForm.resources
+C:\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Admin.resources
+C:\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.MainForm.resources
+C:\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.FoodForm.resources
